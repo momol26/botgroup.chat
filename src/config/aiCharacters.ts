@@ -11,18 +11,18 @@ export const modelConfigs = [
     baseURL: "https://dashscope.aliyuncs.com/compatible-mode/v1"
   },
   {
-    model: "hunyuan-standard",
-    apiKey: "HUNYUAN_API_KEY",
+    model: "hunyuan-turbo",
+    apiKey: "sk-pMAv7t0tEgb4gKOkSKRxkfVAc2hN1BU9faRwyobUa4swloHK",
     baseURL: "https://api.hunyuan.cloud.tencent.com/v1"
   },
   {
-    model: "doubao-1-5-lite-32k-250115",//豆包模型|火山引擎接入点（改成自己的）
-    apiKey: "ARK_API_KEY",
+    model: "ep-20250306111323-fkt65",//豆包模型|火山引擎接入点（改成自己的）Doubao-1.5-pro-32k
+    apiKey: "65cb688a-7cb8-46a4-87ca-51b0c683890b",
     baseURL: "https://ark.cn-beijing.volces.com/api/v3"
   },
   {
-    model: "ep-20250227191640-4qkq6",//deepseek-r火山引擎接入点（改成自己的）
-    apiKey: "ARK_API_KEY",
+    model: "ep-20250214144933-xbppj",//deepseek-r火山引擎接入点（改成自己的）
+    apiKey: "65cb688a-7cb8-46a4-87ca-51b0c683890b",
     baseURL: "https://ark.cn-beijing.volces.com/api/v3"
   },
   {
