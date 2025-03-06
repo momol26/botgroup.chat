@@ -13,7 +13,7 @@ export const modelConfigs = [
   {
     model: "hunyuan-turbos-latest",
     apiKey: "sk-pMAv7t0tEgb4gKOkSKRxkfVAc2hN1BU9faRwyobUa4swloHK",
-    baseURL: "https://api.hunyuan.cloud.tencent.com/v1"
+    baseURL: "https://api.hunyuan.cloud.tencent.com/v1/chat/completions"
   },
   {
     model: "ep-20250306111323-fkt65",//豆包模型|火山引擎接入点（改成自己的）Doubao-1.5-pro-32k
