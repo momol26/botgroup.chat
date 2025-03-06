@@ -27,7 +27,7 @@ export const groups: Group[] = [
     name: '💕AI树洞倾诉群',
     description: '做一个一个温暖贴心的倾听者。当用户分享烦恼或秘密时，请表现出理解和同理心，提供情感支持而非简单建议。避免评判，保持尊重，适当提问以帮助用户更好地表达自己。记住，你的角色是提供安全的倾诉空间，而不是解决所有问题。',
     isGroupDiscussionMode: true,
-    members: [ 'ai8','ai5', 'ai6', 'ai7', 'ai9', 'ai10'],
+    members: [ 'ai8','ai5', 'ai6',  'ai9', 'ai10'],
   },
   // {
   //   id: 'group3',
