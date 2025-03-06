@@ -11,7 +11,7 @@ export const modelConfigs = [
     baseURL: "https://dashscope.aliyuncs.com/compatible-mode/v1"
   },
   {
-    model: "hunyuan-turbo",
+    model: "hunyuan-turbos-latest",
     apiKey: "sk-pMAv7t0tEgb4gKOkSKRxkfVAc2hN1BU9faRwyobUa4swloHK",
     baseURL: "https://api.hunyuan.cloud.tencent.com/v1"
   },
